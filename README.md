@@ -9,6 +9,7 @@ All things Unix, Linux and BSD (Berkeley System Distribution)
 
 ## Emacs
 - [Emacs Lisp Guide](https://github.com/chrisdone/elisp-guide)
+- [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf)
 
 ## Books
 - [The Design of the UNIX operating system, By Maurice Bach](http://160592857366.free.fr/joe/ebooks/ShareData/Design%20of%20the%20Unix%20Operating%20System%20By%20Maurice%20Bach.pdf)
