@@ -7,6 +7,9 @@ All things Unix, Linux and BSD (Berkeley System Distribution)
 ## Network
 - [Carnegie Mellon CS213: Network Programming](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f10/www/lectures/20-network-programming.pdf)
 
+## Emacs
+- [Emacs Lisp Guide](https://github.com/chrisdone/elisp-guide)
+
 ## Books
 - [The Design of the UNIX operating system, By Maurice Bach](http://160592857366.free.fr/joe/ebooks/ShareData/Design%20of%20the%20Unix%20Operating%20System%20By%20Maurice%20Bach.pdf)
 - [The Unix Programming Environment by Brian Kerningham and Rob Pike](http://scis.uohyd.ac.in/~apcs/itw/UNIXProgrammingEnvironment.pdf)
